@@ -1,0 +1,7 @@
+nbformat   # Notebook format
+ipykernel  # Jupyter kernel
+pandas
+matplotlib
+geopandas
+mapclassify
+plotly
