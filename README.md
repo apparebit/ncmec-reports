@@ -1,3 +1,7 @@
+**Since the data and code analyzing the data in this repository are part of a
+research project, I moved the material into the supplements for
+[the paper](https://github.com/apparebit/penal-colony)**
+
 # Analyzing NCMEC's CSAM Reports for 2021
 
 This repository contains the data and Python code for analyzing the geographic
